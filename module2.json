@@ -1,0 +1,14 @@
+{
+  "name": "astoriawp",
+  "title": "Astoria Weapon Properties",
+  "description": "Adds new weapon properties",
+  "version": "0.1",
+  "author": "Fuyuumi",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["astoriawp.js"],
+  "manifest": "https://raw.githubusercontent.com/KurisuFuyuumi/AstoriaWeaponProp/main/module.json",
+  "download": "https://github.com/KurisuFuyuumi/AstoriaWeaponProp/archive/main.zip",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9"
+}
